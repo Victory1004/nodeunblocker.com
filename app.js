@@ -3,7 +3,7 @@
  * similar to CGIProxy or PHProxy
  *
  *
- * This project is hosted on github:  https://github.com/nfriedly/nodeunblocker.com
+ * This project is hosted on github:  https://github.com/victory1004
  *
  * By N3xical - https://github.com/victory1004
  * Released under the terms of the Affero GPL v3
